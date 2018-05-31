@@ -1,0 +1,16 @@
+[
+{
+  "modid": "forgemodlist",
+  "name": "ForgeModList",
+  "description": "Display plugin list loaded with Forge!",
+  "version": "1.0",
+  "mcversion": "[1.7.10 - 1.12.2]",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["SimplyRin"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
